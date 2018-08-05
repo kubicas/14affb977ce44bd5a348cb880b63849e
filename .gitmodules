@@ -1,0 +1,9 @@
+[submodule "comp/doc_iterators"]
+	path = comp/doc_iterators
+	url = https://github.com/kubicas/b7d6b8ca93f9406fa81f34841d575d50/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/f4f856d4b09d44f0b068c563b0581f44/
+[submodule "comp/doc_install_vs"]
+	path = comp/doc_install_vs
+	url = https://github.com/kubicas/f23f6e9fdc6948f6827c7bc2eecd50b0/
